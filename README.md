@@ -14,8 +14,6 @@
 
 ## Badges
 
-## 🚀 **Badges**
-
 ![React](https://img.shields.io/badge/React-19-blue)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
 ![Vite](https://img.shields.io/badge/Vite-4-purple)  
